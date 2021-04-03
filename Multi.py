@@ -31,7 +31,7 @@ def baner():
 \033[1;94m──────────────────────────────────────────────────
 \033[1;93mAUT :\033[1;96m RAMDHAN RAMADHIAN                            
 \033[1;93mIG :\033[1;96m ramdhan._ramadhian._99                 
-\033[1;93mYT :\033[1;96m m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw            
+\033[1;93mYT :\033[1;96m Ramdhan Ramadhian ID            
 \033[1;94m──────────────────────────────────────────────────""")
 
 
