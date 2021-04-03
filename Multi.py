@@ -29,7 +29,7 @@ def baner():
 /____/_/  /_/_____/_/ \033[1;95m  SUPER MULTI BRUTE FIRE
 
 \033[1;94m──────────────────────────────────────────────────
-\033[1;93mAUT :\033[1;96m RAMDHAN RAMADHIAN                            
+\033[1;93mAU :\033[1;96m Ramdhan Ramadhian                            
 \033[1;93mIG :\033[1;96m ramdhan._ramadhian._99                 
 \033[1;93mYT :\033[1;96m Ramdhan Ramadhian ID            
 \033[1;94m──────────────────────────────────────────────────""")
