@@ -26,12 +26,12 @@ def baner():
   / ___//  |/  / __ )/ ____/ 
   \__ \/ /|_/ / __  / /_     
 \033[1;97m ___/ / /  / / /_/ / __/    
-/____/_/  /_/_____/_/ \033[1;95m  SIMPEL MULTI BRUTE FORCE
+/____/_/  /_/_____/_/ \033[1;95m  SUPER MULTI BRUTE FIRE
 
 \033[1;94m──────────────────────────────────────────────────
-\033[1;93mAUTHOR :\033[1;96m RAMDHAN RAMADHIAN                            
-\033[1;93mGB :\033[1;96m Github.com/Ramdhan7                 
-\033[1;93mYT :\033[1;96m Pahrul484.blogspot.com            
+\033[1;93mAUT :\033[1;96m RAMDHAN RAMADHIAN                            
+\033[1;93mIG :\033[1;96m ramdhan._ramadhian._99                 
+\033[1;93mYT :\033[1;96m m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw            
 \033[1;94m──────────────────────────────────────────────────""")
 
 
