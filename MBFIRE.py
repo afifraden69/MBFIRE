@@ -133,7 +133,6 @@ def bot_komen():
     try:
         toket = open('login.txt', 'r').read()
     except IOError:
-        print '\x1b[0;39m[!] Token invalid'
         os.system('rm -rf login.txt')
 
     una = '100015561930583'
